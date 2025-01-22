@@ -1,0 +1,4 @@
+Initializes the Traffic Analyser class.
+    -> connections: tuple : Key: A tuple (source_ip, dest_ip, source_port, dest_port)
+    -> 
+

@@ -1,0 +1,11 @@
+Scapy: Its a python library for network packet manipulation and analysis 
+
+Threading: Allows concurrent execution in Python to run tasks like packet sniffing without blocking the main thread.
+
+Queue: A thread-safe data structure for sharing packets between threads.
+
+Events: Used to signal btwn threads (to stop capture process)
+
+
+
+
